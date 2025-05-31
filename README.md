@@ -6,8 +6,8 @@ This project provides a Dockerized Django-based backend for managing customer lo
 ## 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/credit-approval-system.git
-cd credit-approval-system
+git clone https://github.com/Ramanand87/Alemeno-Assignment.git
+cd Alemeno-Assignment
 ```
 ## 🚀 Build and Start All Services
 
@@ -33,5 +33,4 @@ docker-compose down
   
   🐳 Zero-setup development with Docker
   
-  🧪 Easy testing with pytest
 
